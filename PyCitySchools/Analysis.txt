@@ -1,0 +1,8 @@
+In this module we are given data from different schools pertaining to students' math and reading results.
+First we collected and analyzed the data as a whole for the district.
+Then, we looked at each school's individual data in each field and drew some conclusions
+.
+From the analysis made we can determine that:
+    Charter schools have a higher overall passing percentage (the top five all being charter schools).
+    A school with more than 2000 students has a lower overall passing percentage than one with less.
+    The average math and reading scores were the hightest when the spending range was less than 585 dollars.
